@@ -1,0 +1,29 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.3.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MKSInc/AJS-hw.-1-working-enviroment.-3-ESLint.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "MKSInc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MKSInc/AJS-hw.-1-working-enviroment.-3-ESLint/issues"
+  },
+  "homepage": "https://github.com/MKSInc/AJS-hw.-1-working-enviroment.-3-ESLint#readme"
+}
